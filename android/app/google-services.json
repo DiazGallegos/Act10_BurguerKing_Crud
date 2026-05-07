@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769820971745",
+    "project_id": "bkappcrud",
+    "storage_bucket": "bkappcrud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769820971745:android:56a7dfaf0934c914035da0",
+        "android_client_info": {
+          "package_name": "com.bk.admin.xflutterchristian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnIpWanXckBg4WYI3LDChMD5Rp5-l34Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
